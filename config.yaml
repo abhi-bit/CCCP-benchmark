@@ -1,0 +1,5 @@
+couchbase:
+    ip: localhost
+    admin_port: 9000
+    mcd_port: 12000
+    vbuckets: 1024
